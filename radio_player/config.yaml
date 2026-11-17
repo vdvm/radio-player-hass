@@ -1,5 +1,5 @@
 name: Radio Player
-version: "0.1.1"
+version: "0.1.2"
 slug: radio_player
 description: Offers radio stations to Home Assistant and, for the one you listen to, the stream URL and what is playing, via MQTT
 url: https://github.com/vdvm/radio-player-hass
